@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tsennema
-- 👀 I’m interested in working in a CS field, though I'm still learning a lot before I decide 
+- 👀 I’m interested in working in a CS field, and am working on personal projects and online courses to get up to speed.
 - 🌱 I’m currently learning python-backed web apps
 
 <!---
